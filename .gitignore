@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Model checkpoints & data
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.h5
+
+# Outputs
+samples/
+ckpts_imagenet/
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+wandb/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
