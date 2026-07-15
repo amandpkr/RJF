@@ -251,10 +251,10 @@ Use the ADM evaluation suite to score generated samples:
 ## Citation
 
 ```bibtex
-@inproceedings{kumar2026learning,
-  title={Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders},
-  author={Kumar, Amandeep and Patel, Vishal M.},
-  booktitle={European Conference on Computer Vision (ECCV)},
+@article{kumar2026learning,
+  title={Learning on the manifold: Unlocking standard diffusion transformers with representation encoders},
+  author={Kumar, Amandeep and Patel, Vishal M},
+  journal={arXiv preprint arXiv:2602.10099},
   year={2026}
 }
 ```
